@@ -9,7 +9,7 @@ When you clap your hands trilly blink fast.
 
 ## Electronic
 
-![electronic](https://github.com/pasalino/trylli-blink/blob/master/docs/es1.jpg)
+![electronic](https://github.com/pasalino/trylli-blink/blob/master/docs/es2.jpg)
 
 
 ### Scheme

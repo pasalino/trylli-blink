@@ -5,11 +5,12 @@ Create a trylly blink with arduino mini pro 3V3 (8MHz) and sound sensor.
 Trilly blink in a random mode in 10 different type.
 When you clap your hands trilly blink fast.
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/ctat5pEXB5U)
+[![Everything Is AWESOME](https://img.youtube.com/vi/ctat5pEXB5U/0.jpg)](https://www.youtube.com/watch?v=ctat5pEXB5U "Everything Is AWESOME")
 
 ## Electronic
 
-![alt text](https://raw.githubusercontent.com/pasalino/)
+![electronic](https://github.com/pasalino/trylli-blink/blob/master/docs/es1.jpg)
+
 
 ### Scheme
 
